@@ -280,6 +280,7 @@ A->C
 ### Submission Guidelines
 
 - For ACMOJ problems 2276 to 2283, submit only the `.mv` file containing your mov language code.
+- **Note:** The OJ API lists these problems as accepting "cpp" only; submit your `.mv` file content with `--language cpp` when using acmoj_client.py (the judge runs the mov interpreter on the submitted code).
 - Ensure your implementation meets the requirements.
 
 ### Evaluation Notes
